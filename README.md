@@ -13,6 +13,11 @@ Moreover, our system is designed with scalability and efficiency in mind. It can
 
 In summary, our hand detection project represents a significant contribution to the field of computer vision, offering a reliable and efficient solution for a wide range of applications. With its accuracy, versatility, and scalability, it opens up new possibilities for gesture-based interactions and human-computer interfaces, paving the way for more intuitive and immersive user experiences.
 
-USED
+Used Technologies:
+     - PYTHON
+     - PYCHARM
+     - OPENCV
+     - MEDIAPIPE
+     
 
     
